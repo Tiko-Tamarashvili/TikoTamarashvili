@@ -1,0 +1,14 @@
+﻿string name = "Tiko";
+string Lastname = "Tamarashvili";
+long PersonalNumber = 35000000000;
+bool IsResident = true;
+byte Age = 35;
+float Weight = 55.9F;
+float Haight = 1.65F;
+Console.WriteLine("First name: " + name);
+Console.WriteLine("Last name: " + Lastname);
+Console.WriteLine("personal N: " + PersonalNumber);
+Console.WriteLine("Is resident: " + IsResident);
+Console.WriteLine("Age: " + Age);
+Console.WriteLine("Weight: " + Weight);
+Console.WriteLine("Haight: " + Haight);
